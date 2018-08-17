@@ -1,0 +1,32 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.3840.2160@192dpi" x="896" y="1031" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.3840.2160@192dpi" x="1351" y="654" />
+    <location key="SettingsEditor.0.0.3840.2160@192dpi" x="857" y="326" />
+    <location key="WELCOME_SCREEN.-3200.1350.3200.2560@192dpi" x="-1887" y="2534" />
+    <location key="deploy.picker.dialog.-3200.1350.3200.2560@192dpi" x="-1928" y="2279" />
+    <location key="#Auto_Import.-3200.1350.3200.2560@192dpi" x="-2219" y="2044" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.-3200.1350.3200.2560@192dpi" x="-2128" y="2059" />
+    <location key="#com.intellij.ide.util.MemberChooser.-3200.1350.3200.2560@192dpi" x="-1978" y="1994" />
+    <location key="com.intellij.ide.util.TipDialog.-3200.1350.3200.2560@192dpi" x="-2169" y="2204" />
+    <location key="AndroidCreateResourceDirectoryDialog.-3200.1350.3200.2560@192dpi" x="-2028" y="2279" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.-3200.1350.3200.2560@192dpi" x="-2198" y="2282" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.-3200.1350.3200.2560@192dpi" x="-2128" y="2079" />
+    <location key="AndroidCreateResourceFileDialog.-3200.1350.3200.2560@192dpi" x="-2028" y="2279" />
+    <location key="deploy.picker.dialog.0.0.3840.2160@192dpi" x="1592" y="729" />
+    <location key="FileChooserDialogImpl.-3200.1350.3200.2560@192dpi" x="-2028" y="2079" />
+    <location key="IdeErrosDialog.-3200.1350.3200.2560@192dpi" x="-2518" y="2314" />
+    <location key="FileChooserDialogImpl.0.0.3840.2160@192dpi" x="1492" y="529" />
+    <location key="AndroidCreateXmlResourceDialog.-3200.1350.3200.2560@192dpi" x="-1860" y="2154" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.3840.2160@192dpi" x="2533" y="536" />
+    <location key="#Project_Structure.0.0.3840.2160@192dpi" x="1084" y="313" />
+    <size key="GridCell.Tab.0.left.0.0.3840.2160@192dpi" width="0" height="0" />
+    <size key="GridCell.Tab.0.center.0.0.3840.2160@192dpi" width="0" height="0" />
+    <size key="GridCell.Tab.0.right.0.0.3840.2160@192dpi" width="0" height="0" />
+    <size key="GridCell.Tab.0.bottom.0.0.3840.2160@192dpi" width="0" height="0" />
+    <size key="GridCell.Tab.0.left.-3200.1350.3200.2560@192dpi" width="0" height="0" />
+    <size key="GridCell.Tab.0.center.-3200.1350.3200.2560@192dpi" width="0" height="0" />
+    <size key="GridCell.Tab.0.right.-3200.1350.3200.2560@192dpi" width="0" height="0" />
+    <size key="GridCell.Tab.0.bottom.-3200.1350.3200.2560@192dpi" width="0" height="0" />
+  </component>
+</application>

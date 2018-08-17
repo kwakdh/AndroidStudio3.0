@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\User\AndroidStudioProjects\PsyApp\.idea\gradle.xml" timestamp="1515478225409" />
+    <file path="C:\Users\User\AndroidStudioProjects\PsyApp\.idea\libraries\android_arch_core_common_1_0_0_jar.xml" timestamp="1531742465514" />
+    <file path="C:\Users\User\AndroidStudioProjects\PsyApp\.idea\libraries\android_arch_lifecycle_common_1_0_0_jar.xml" timestamp="1531742465528" />
+    <file path="C:\Users\User\AndroidStudioProjects\PsyApp\.idea\libraries\android_arch_lifecycle_runtime_1_0_0.xml" timestamp="1531742465544" />
+    <file path="C:\Users\User\AndroidStudioProjects\PsyApp\.idea\libraries\com_android_support_animated_vector_drawable_26_1_0.xml" timestamp="1531742465563" />
+    <file path="C:\Users\User\AndroidStudioProjects\PsyApp\.idea\libraries\com_android_support_appcompat_v7_26_1_0.xml" timestamp="1531742465580" />
+    <file path="C:\Users\User\AndroidStudioProjects\PsyApp\.idea\libraries\com_android_support_constraint_constraint_layout_1_0_2.xml" timestamp="1531742465598" />
+    <file path="C:\Users\User\AndroidStudioProjects\PsyApp\.idea\libraries\com_android_support_constraint_constraint_layout_solver_1_0_2_jar.xml" timestamp="1531742465616" />
+    <file path="C:\Users\User\AndroidStudioProjects\PsyApp\.idea\libraries\com_android_support_support_annotations_26_1_0_jar.xml" timestamp="1531742465639" />
+    <file path="C:\Users\User\AndroidStudioProjects\PsyApp\.idea\libraries\com_android_support_support_compat_26_1_0.xml" timestamp="1531742465658" />
+    <file path="C:\Users\User\AndroidStudioProjects\PsyApp\.idea\libraries\com_android_support_support_core_ui_26_1_0.xml" timestamp="1531742465678" />
+    <file path="C:\Users\User\AndroidStudioProjects\PsyApp\.idea\libraries\com_android_support_support_core_utils_26_1_0.xml" timestamp="1531742465695" />
+    <file path="C:\Users\User\AndroidStudioProjects\PsyApp\.idea\libraries\com_android_support_support_fragment_26_1_0.xml" timestamp="1531742465713" />
+    <file path="C:\Users\User\AndroidStudioProjects\PsyApp\.idea\libraries\com_android_support_support_media_compat_26_1_0.xml" timestamp="1531742465733" />
+    <file path="C:\Users\User\AndroidStudioProjects\PsyApp\.idea\libraries\com_android_support_support_v4_26_1_0.xml" timestamp="1531742465750" />
+    <file path="C:\Users\User\AndroidStudioProjects\PsyApp\.idea\libraries\com_android_support_support_vector_drawable_26_1_0.xml" timestamp="1531742465767" />
+    <file path="C:\Users\User\AndroidStudioProjects\PsyApp\.idea\libraries\com_android_support_test_espresso_espresso_core_3_0_1.xml" timestamp="1531742465783" />
+    <file path="C:\Users\User\AndroidStudioProjects\PsyApp\.idea\libraries\com_android_support_test_espresso_espresso_idling_resource_3_0_1.xml" timestamp="1531742465800" />
+    <file path="C:\Users\User\AndroidStudioProjects\PsyApp\.idea\libraries\com_android_support_test_rules_1_0_1.xml" timestamp="1531742465823" />
+    <file path="C:\Users\User\AndroidStudioProjects\PsyApp\.idea\libraries\com_android_support_test_runner_1_0_1.xml" timestamp="1531742465842" />
+    <file path="C:\Users\User\AndroidStudioProjects\PsyApp\.idea\libraries\com_google_code_findbugs_jsr305_2_0_1_jar.xml" timestamp="1531742465860" />
+    <file path="C:\Users\User\AndroidStudioProjects\PsyApp\.idea\libraries\com_squareup_javawriter_2_1_1_jar.xml" timestamp="1531742465881" />
+    <file path="C:\Users\User\AndroidStudioProjects\PsyApp\.idea\libraries\javax_inject_javax_inject_1_jar.xml" timestamp="1531742465901" />
+    <file path="C:\Users\User\AndroidStudioProjects\PsyApp\.idea\libraries\junit_junit_4_12_jar.xml" timestamp="1531742465920" />
+    <file path="C:\Users\User\AndroidStudioProjects\PsyApp\.idea\libraries\net_sf_kxml_kxml2_2_3_0_jar.xml" timestamp="1531742465940" />
+    <file path="C:\Users\User\AndroidStudioProjects\PsyApp\.idea\libraries\org_hamcrest_hamcrest_core_1_3_jar.xml" timestamp="1531742465959" />
+    <file path="C:\Users\User\AndroidStudioProjects\PsyApp\.idea\libraries\org_hamcrest_hamcrest_integration_1_3_jar.xml" timestamp="1531742465976" />
+    <file path="C:\Users\User\AndroidStudioProjects\PsyApp\.idea\libraries\org_hamcrest_hamcrest_library_1_3_jar.xml" timestamp="1531742465992" />
+    <file path="C:\Users\User\AndroidStudioProjects\PsyApp\.idea\misc.xml" timestamp="1515742392289" />
+    <file path="C:\Users\User\AndroidStudioProjects\PsyApp\.idea\modules.xml" timestamp="1515478264221" />
+    <file path="C:\Users\User\AndroidStudioProjects\PsyApp\.idea\runConfigurations.xml" timestamp="1515478225428" />
+    <file path="C:\Users\User\AndroidStudioProjects\PsyApp\.idea\workspace.xml" timestamp="1531742549568" />
+    <file path="C:\Users\User\AndroidStudioProjects\PsyApp\PsyApp.iml" timestamp="1515478264124" />
+    <file path="C:\Users\User\AndroidStudioProjects\PsyApp\app\app.iml" timestamp="1515579627659" />
+  </project-files>
+</conversion>
+
